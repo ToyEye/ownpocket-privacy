@@ -1,4 +1,4 @@
-# SafePocket — Privacy Policy
+# OwnPocket — Privacy Policy
 
 Published with GitHub Pages: https://toyeye.github.io/safepocket-privacy/
 
